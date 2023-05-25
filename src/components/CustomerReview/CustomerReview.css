@@ -1,0 +1,8 @@
+    .CustomerReview{
+        box-shadow: 2px 2px 2px 2px rgb(206, 205, 205);
+        position: relative;
+        height: 250px; 
+        margin-top: -10px;
+        padding: 30px 0px 0px 0px;
+    }
+  
